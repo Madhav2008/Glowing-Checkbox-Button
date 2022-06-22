@@ -22,5 +22,5 @@ ul {
     box-sizing: border-box;
     overflow: hidden;
     width: 240px;
-    background: linear-gradient();
+    background: linear-gradient(0deg);
 }
