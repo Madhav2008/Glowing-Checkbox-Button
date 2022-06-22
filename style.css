@@ -20,5 +20,6 @@ ul {
     border-radius: 10px;
     padding: 20px 0;
     box-sizing: border-box;
-    overflow: hidden;width: ;
+    overflow: hidden;
+    width: 240px;
 }
