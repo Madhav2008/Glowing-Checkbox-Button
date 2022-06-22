@@ -34,4 +34,6 @@ ul::before {
     bottom: -50%;
     pointer-events: none;
     z-index: 1;
-}ul li
+}
+
+ul li
