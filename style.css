@@ -18,5 +18,5 @@ ul {
     flex-wrap: wrap;
     border: 3px solid #000;
     border-radius: 10px;
-    padding: 20px;
+    padding: 20px 0;
 }
