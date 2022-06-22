@@ -12,5 +12,6 @@ ul {
     position: relative;
     margin: 0;
     padding: 0;
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
 }
