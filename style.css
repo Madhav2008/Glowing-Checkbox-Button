@@ -74,5 +74,6 @@ ul li label .icon-box .fa {
 ul li label input[type="checkbox"]:checked~.icon-box {
     background: #000;
     border: 3px solid #fff;
-    box-shadow: 0 0 10px rgba(33, 156, 243, 0.5), 0 0 10px rgba(33, 156, 243, 0.5), ;
+    box-shadow: 0 0 10px rgba(33, 156, 243, 0.5), 
+    0 0 10px rgba(33, 156, 243, 0.5), ;
 }
