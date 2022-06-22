@@ -36,4 +36,6 @@ ul::before {
     z-index: 1;
 }
 
-ul li {position: relative;}
+ul li {
+    position: relative;
+}
