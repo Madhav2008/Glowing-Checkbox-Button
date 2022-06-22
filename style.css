@@ -80,4 +80,4 @@ ul li label input[type="checkbox"]:checked~.icon-box {
         inset 0 0 10px rgba(33, 156, 243, 1);
 }
 
-ul li label input[type="checkbox"]:checked~.icon-box .fa {color: ;}
+ul li label input[type="checkbox"]:checked~.icon-box .fa {color: #fff;}
