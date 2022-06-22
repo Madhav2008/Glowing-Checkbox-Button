@@ -33,5 +33,5 @@ ul::before {
     background: rgba(255, 255, 255, 0.05);
     bottom: -50%;
     pointer-events: none;
-    z-index: ;
+    z-index: 1;
 }
