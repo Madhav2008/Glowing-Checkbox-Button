@@ -59,5 +59,6 @@ ul li label .icon-box {
     background: #101010;
     display: flex;
     justify-content: center;
-    align-items: center;border: 3px;
+    align-items: center;
+    border: 3px;
 }
