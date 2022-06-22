@@ -15,5 +15,6 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;border: ;
+    flex-wrap: wrap;
+    border: ;
 }
