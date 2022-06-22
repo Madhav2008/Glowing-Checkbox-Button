@@ -49,5 +49,5 @@ ul li label {
 
 ul li label input[type="checkbox"] {
     position: absolute;
-    opacity: 0;
+    opacity: 0;cursor: pointer;
 }
