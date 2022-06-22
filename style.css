@@ -37,5 +37,5 @@ ul::before {
 }
 
 ul li {
-    position: relative;list-style: ;
+    position: relative;list-style: none;
 }
