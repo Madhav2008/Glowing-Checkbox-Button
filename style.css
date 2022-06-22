@@ -69,4 +69,6 @@ ul li label .icon-box .fa {
     font-size: 30px;
     color: #222;
     transition: 0.5s;
-}ul li label input[type="checkbox"]:checked
+}
+
+ul li label input[type="checkbox"]:checked
