@@ -25,4 +25,4 @@ ul {
     background: linear-gradient(0deg, #000000, #0c0c0c);
 }
 
-ul::before {}
+ul::before {content: ;}
