@@ -71,4 +71,6 @@ ul li label .icon-box .fa {
     transition: 0.5s;
 }
 
-ul li label input[type="checkbox"]:checked~.icon-box {background: #000;}
+ul li label input[type="checkbox"]:checked~.icon-box {
+    background: #000;
+}
