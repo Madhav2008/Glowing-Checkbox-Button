@@ -47,4 +47,6 @@ ul li label {
     position: relative;
 }
 
-ul li label input[type="checkbox"] {position: absolute;}
+ul li label input[type="checkbox"] {
+    position: absolute;
+}
