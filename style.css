@@ -53,4 +53,6 @@ ul li label input[type="checkbox"] {
     cursor: pointer;
 }
 
-ul li label input .icon-box {width: ;}
+ul li label input .icon-box {
+    width: ;
+}
