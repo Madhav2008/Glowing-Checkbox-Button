@@ -67,5 +67,5 @@ ul li label .icon-box {
 
 ul li label .icon-box .fa {
     font-size: 30px;
-    color: #222;transition: ;
+    color: #222;transition: 0.5s;
 }
