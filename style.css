@@ -27,5 +27,5 @@ ul {
 
 ul::before {
     content: '';
-    position: absolute;
+    position: absolute;width: ;
 }
