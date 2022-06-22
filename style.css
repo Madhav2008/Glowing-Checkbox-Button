@@ -26,5 +26,5 @@ ul {
 }
 
 ul::before {
-    content: '';
+    content: '';position: absolute;
 }
