@@ -71,4 +71,4 @@ ul li label .icon-box .fa {
     transition: 0.5s;
 }
 
-ul li label input[type="checkbox"]:checked {}
+ul li label input[type="checkbox"]:checked ~ {}
