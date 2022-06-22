@@ -43,4 +43,6 @@ ul li {
     margin: 15px;
 }
 
-ul li label {position: relative;}
+ul li label {
+    position: relative;
+}
