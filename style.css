@@ -38,5 +38,5 @@ ul::before {
 
 ul li {
     position: relative;
-    list-style: none;
+    list-style: none;text-align: ;
 }
