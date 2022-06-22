@@ -1,6 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    display: flex;
+    display: flex;justify-content: ;
     box-sizing: border-box;
 }
